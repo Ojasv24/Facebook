@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\Ojasv\\CP\\Facebook\\test.py","tests":[{"id":1661771190838,"input":"5\n2\n4\n1\n3\n2\n7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Ojasv\\CP\\Facebook\\test.py","group":"local","local":true}
